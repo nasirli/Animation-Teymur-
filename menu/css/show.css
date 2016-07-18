@@ -1,0 +1,35 @@
+
+body{
+	background:  center no-repeat url("https://wallpaperscraft.com/image/colorful_shape_point_surface_bending_38205_2560x1440.jpg" );
+   
+}
+.main{
+	width: 500px;
+	height: 50px;	
+	margin: 0 auto;
+	margin-top: 400px;
+	border-radius: 20px;
+    background:black;
+
+}
+div ul li{
+	text-align: center;
+	list-style-type: none;
+	float: left;
+	padding: 10px;
+
+}
+div ul li a{
+	font-family: Calibri;
+	text-decoration:none;
+	font-size: 24px;
+	color: white;
+	transition: all 1s ease;
+}
+div ul li a:hover{
+	background: darkblue;
+	padding:10px;
+	border-radius: 30px/10px;
+
+
+}
